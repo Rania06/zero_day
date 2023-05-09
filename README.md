@@ -5,5 +5,9 @@ vagrant project to use local terminal:wq
 
 :wq
 q<return>
+nsert
+> > quoted quote
 
+> *
+> * List
 
